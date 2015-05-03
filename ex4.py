@@ -1,7 +1,7 @@
 # creates a variable called cars and sets a value of 100 to it
 cars = 100
 # creates a variable called space_in_a_car and sets a value of 4.0 to it
-space_in_a_car = 4.0
+space_in_a_car = 4
 # creates a variable called drivers and sets a value of 30 to it
 drivers = 30
 # creates a variable called passengers and sets a value of 90 to it
