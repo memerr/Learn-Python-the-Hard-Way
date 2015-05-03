@@ -8,7 +8,8 @@ print "Roosters", 100 - 25 * 3 % 4
 print "Now I will count the eggs:"
 
 # (4 module 2 = 0) (1 divided by 4 = 0) 3 + 2 + 1 - 5 + 0 - 0 + 6 = 7
-print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+# changed 1 to 1.0 (1 - .25 + 6) left to right
+print 3 + 2 + 1 - 5 + 4 % 2 - 1.0 / 4 + 6
 
 print "Is it true that 3 + 2 < 5 - 7?"
 
