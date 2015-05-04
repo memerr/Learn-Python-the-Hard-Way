@@ -6,7 +6,7 @@ eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
 
-print "Let's talk about %s." % name
+print "Let's talk about %r." % name
 print "He's %d inches tall." % height
 print "He's %d pounds heavy." % weight
 print "Actually that's not too heavy."
