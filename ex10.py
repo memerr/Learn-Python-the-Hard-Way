@@ -16,3 +16,11 @@ print tabby_cat
 print persian_cat
 print backslash_cat
 print fat_cat
+
+# study drills
+print "%r\n%r" % ("MEME", 'meme')
+print "\"%r\"" % "Hello"
+print "\'%r\'" % "Hello"
+print "\"%s\"" % "Hello"
+print "\'%s\'" % "Hello"
+print "%r" % "\"Hello\""
