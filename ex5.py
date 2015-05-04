@@ -17,7 +17,7 @@ print "His teeth are usually %s depending on the coffee." % teeth
 print "If I add %d, %d, and %d I get %d." % (
 	age, height, weight, age + height + weight)
 
-inches_to_centimeters = height * 2.54
-pounds_to_kilograms = weight / 2.2
+inches_to_centimeters = round(height * 2.54)
+pounds_to_kilograms = round(weight / 2.2)
 print "His weight in kilograms:", pounds_to_kilograms
 print "His height in centimeters:", inches_to_centimeters
