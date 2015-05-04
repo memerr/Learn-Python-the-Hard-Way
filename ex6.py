@@ -18,7 +18,7 @@ print "I said: %r." % x
 print "I also said: '%s'." % y
 
 # creates a variable with a boolean value of False
-hilarious = False
+hilarious = True
 # creates a variable with a string value plus a format string that doesn't have a value yet
 joke_evaluation = "Isn't that joke so funny!? %r"
 
